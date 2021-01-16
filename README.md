@@ -25,11 +25,11 @@ Last part the whole modelling, codes were being merged with a function. Comments
 
 def linreg(y,ylabel="Overall",df=fifa,corr=0.60,categorical=False,rfe=False):
 
-*y: choose the dependent variable in your fifa dataset*
-*ylabel: choose how you are going to name your dependent variable*
-*df: This is default **fifa** dataset*
-*categorical: True if you want to add categorical variables (Preferred Foot and Positions)*
-*rfe: True if you want to apply backward elimination. Number of features are 3
+-*y: choose the dependent variable in your fifa dataset*
+-*ylabel: choose how you are going to name your dependent variable*
+-*df: This is default **fifa** dataset*
+-*categorical: True if you want to add categorical variables (Preferred Foot and Positions)*
+-*rfe: True if you want to apply backward elimination. Number of features are 3
 
 
 ##### To do(s)
