@@ -35,8 +35,3 @@ def linreg(y,ylabel="Overall",df=fifa,corr=0.60,categorical=False,rfe=False):
 ##### To do(s)
 - adding also data cleaning part inside of a function thereby choosing a different dependent variable would be an option
 - wrangling data run for logistic regression
-
-
-###### Contact
-
-[LinkedIn](https://www.linkedin.com/in/caner-bulut-48a0784a/)
